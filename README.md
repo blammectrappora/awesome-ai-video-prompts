@@ -103,3 +103,5 @@ Try it here:
 ## More Models Coming Later
 
 More prompt collections for additional AI video models can be added over time as the library grows.
+
+- **MiniMax H3** — curated index of the H3 1K prompt dataset: 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. [github.com/yangzhou-chaofan/minimax-h3-1000-prompts](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) · interactive atlas of all 1,000 clips: [neta.art H3 1000 Prompt List](https://neta.art/use-cases/en/h3-1000-prompt-list)
